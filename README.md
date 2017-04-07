@@ -4,5 +4,4 @@ My journey into learning Rust.
 
 From getting started with Rust: (https://doc.rust-lang.org/book/getting-started.html)
 
-
-BY DAVE!
+By dave in 2017
